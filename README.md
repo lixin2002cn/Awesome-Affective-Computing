@@ -1,4 +1,4 @@
-# 🤖 Awosome-Affective-Computing
+# 🤖 Awesome-Affective-Computing
 List of papers on affective computing
 ## Survey:
 1. [A review of affective computing: From unimodal analysis to multimodal fusion](https://www.sciencedirect.com/science/article/pii/S1566253517300738)
